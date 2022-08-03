@@ -6,6 +6,7 @@ Screenshots:
 
 
 Home Page:
+
 ![image](https://user-images.githubusercontent.com/81905343/182674698-18496fc3-f730-40fd-9aee-3ec31eb3b98c.png)
 
 ![image](https://user-images.githubusercontent.com/81905343/182674589-f03d1cf9-64aa-4513-9b4b-94d751237c7f.png)
@@ -15,10 +16,13 @@ Home Page:
 FIFO Algorithm Page:
 
 Detail:
+
 ![image](https://user-images.githubusercontent.com/81905343/182674919-ef85f5e1-6eb8-4cbc-9f0b-f956368c8466.png)
 
 Example:
+
 ![image](https://user-images.githubusercontent.com/81905343/182674977-9152cec1-899a-4480-8176-c63a266df9f5.png)
 
 Simulator:
+
 ![image](https://user-images.githubusercontent.com/81905343/182677499-7e67a130-785b-428d-aa65-74ab745b7676.png)
